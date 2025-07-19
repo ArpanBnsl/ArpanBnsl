@@ -1,16 +1,19 @@
-## Hi there 👋
-hjjhbjhj
-<!--
-**ArpanBnsl/ArpanBnsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Arpan Bansal !
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a Computer Science Engineering student passionate about competitive programming, software development, and building cool projects. I enjoy turning ideas into reality using code, and I'm always learning something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student | NIT Delhi | 3rd Year  
+- 💻 Interested in **Software Development**, **Competitive Programming**, and **Problem-solving**.
+- 🌱 Learning: **Advanced C++**, **Algorithms**, **Web Development** and **Machine Learning**.
+- 💬 Ask me about: DSA, Web Development, or anything tech-related!
+- 📫 Reach me at: `bansalarpan4@gmail.com`
+
+## 🧠 Skills
+
+```txt
+Languages:    C, C++, Python
+Expertise:    Competitive Programming, Problem Solving, DSA
+Web Dev:      HTML, CSS, JavaSript, SQL
+Tools/Other:  Machine Learning, Git & GitHub, VS Code, Linux
